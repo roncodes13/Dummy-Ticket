@@ -1,0 +1,198 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
+* {
+  margin: 0;
+  line-height: 1.5;
+}
+
+.logo img {
+  position: absolute;
+  width: 241px;
+  height: 58.48px;
+  left: 309px;
+  top: 36px;
+}
+
+.nav-bar {
+  display: flex;
+  list-style-type: none;
+  justify-content: space-evenly;
+}
+
+ul li a {
+  margin: 0px 5px;
+  /* border: 2px solid white; */
+  padding: 0px 10px;
+  text-decoration: none;
+  border-radius: 50px;
+  color: #191919;
+}
+
+.home {
+  position: absolute;
+  width: 113px;
+  height: auto;
+  left: 799px;
+  top: 46px;
+
+  font-family: Poppins;
+  font-size: 25px;
+  font-weight: 400;
+  line-height: 37.5px;
+  text-align: center;
+}
+
+.buy-now {
+  position: absolute;
+  width: 140px;
+  height: auto;
+  top: 46px;
+  left: 952px;
+
+  font-family: Poppins;
+  font-size: 25px;
+  font-weight: 400;
+  line-height: 37.5px;
+  text-align: center;
+}
+
+.blog {
+  position: absolute;
+  width: 110px;
+  height: auto;
+  top: 46px;
+  left: 1141px;
+
+  font-family: Poppins;
+  font-size: 25px;
+  font-weight: 400;
+  line-height: 37.5px;
+  text-align: center;
+}
+
+.support {
+  position: absolute;
+  width: 120px;
+  height: auto;
+  top: 46px;
+  left: 1454px;
+
+  font-family: Poppins;
+  font-size: 25px;
+  font-weight: 400;
+  line-height: 37.5px;
+  text-align: center;
+}
+
+.buy-tickets h3 {
+  /* border: 2px solid red; */
+  position: absolute;
+  width: 584px;
+  height: 228px;
+  top: 246px;
+  left: 309px;
+  opacity: 0px;
+
+  font-family: Poppins;
+  font-size: 78.5px;
+  font-weight: 700;
+  line-height: 76.4px;
+  text-align: left;
+
+  color: #5d9bf7;
+}
+.buy-tickets p {
+  position: absolute;
+  width: 726px;
+  height: 114px;
+  top: 514px;
+  left: 309px;
+  gap: 0px;
+  opacity: 0px;
+
+  /* border: 2px solid red; */
+  font-family: Poppins;
+  font-size: 25px;
+  font-weight: 400;
+  line-height: 37.5px;
+  text-align: left;
+
+  color: #141212;
+}
+
+.buy-tickets .btn {
+  position: absolute;
+  width: 245.61px;
+  height: 69.84px;
+  top: 668px;
+  left: 309px;
+  gap: 0px;
+  border-radius: 50.22px;
+  opacity: 0px;
+  background: #bef28d;
+  border: none;
+
+  font-family: Poppins;
+  font-size: 23.48px;
+  font-weight: 700;
+  line-height: 45.72px;
+  text-align: center;
+
+  margin-bottom: 200px;
+}
+
+.wrapper {
+  height: 200px;
+  padding: 20px;
+  /* border: 2px solid red;
+  border: 2px solid red; */
+  display: flex;
+  align-items: center;
+  position: absolute;
+  top: 810.93px;
+  overflow: hidden;
+  mask-image: linear-gradient(
+    to right,
+    rgba(0, 0, 0, 0),
+    rgba(0, 0, 0, 1) 20%,
+    rgba(0, 0, 0, 1) 80%,
+    rgba(0, 0, 0, 0)
+  );
+}
+
+.sample-page {
+  position: absolute;
+  width: 845.34px;
+  height: 62.53px;
+  top: 1039.24px;
+  left: 537px;
+  gap: 0px;
+  /* border: 2px solid black; */
+  border-radius: 48.36px;
+  opacity: 0px;
+}
+
+.sample-page h5 {
+  position: absolute;
+  width: 475px;
+  height: 57px;
+  /* top: 1043px; */
+  left: 10px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Poppins;
+  font-size: 25px;
+  font-weight: 700;
+  line-height: 56.69px;
+  text-align: left;
+}
+.sample-page .btn {
+  position: absolute;
+  width: 324.14px;
+  height: 62.53px;
+  left: 523px;
+  gap: 0px;
+  border-radius: 48.36px;
+  opacity: 0px;
+  top: 0px;
+}
